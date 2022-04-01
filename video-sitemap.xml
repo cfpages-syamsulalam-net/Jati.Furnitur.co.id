@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by (Accrue http://www.accruemarketing.com/) -->
+<!-- Generated-on="April 1, 2022, 4:57 am" -->
+<?xml-stylesheet type="text/xsl" href="https://jati.furnitur.co.id/video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/meja</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Meja</video:title>
+  <video:description>Meja</video:description>
+  <video:publication_date>2022-03-31T15:46:02+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/kursi</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursi</video:title>
+  <video:description>Kursi</video:description>
+  <video:publication_date>2022-03-31T15:45:39+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/lemari</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Lemari</video:title>
+  <video:description>Lemari</video:description>
+  <video:publication_date>2022-03-31T15:45:15+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/tempat-tidur</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Tempat Tidur</video:title>
+  <video:description>Tempat Tidur</video:description>
+  <video:publication_date>2022-03-31T11:45:30+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Furnitur Kayu Jati</video:title>
+  <video:description>Furnitur Kayu Jati</video:description>
+  <video:publication_date>2022-03-31T10:33:12+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/pendopo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Pendopo</video:title>
+  <video:description>Pendopo</video:description>
+  <video:publication_date>2022-03-31T09:10:06+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/limasan</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Limasan</video:title>
+  <video:description>Limasan</video:description>
+  <video:publication_date>2022-03-31T08:22:51+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/gazebo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Gazebo</video:title>
+  <video:description>Gazebo</video:description>
+  <video:publication_date>2022-03-31T07:11:33+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/joglo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/DX9hTlVT5GA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/DX9hTlVT5GA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Joglo</video:title>
+  <video:description>Joglo</video:description>
+  <video:publication_date>2021-11-02T08:56:58+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/meja</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Meja</video:title>
+  <video:description>Meja</video:description>
+  <video:publication_date>2022-03-31T15:46:02+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/kursi</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursi</video:title>
+  <video:description>Kursi</video:description>
+  <video:publication_date>2022-03-31T15:45:39+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/lemari</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Lemari</video:title>
+  <video:description>Lemari</video:description>
+  <video:publication_date>2022-03-31T15:45:15+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur/tempat-tidur</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Tempat Tidur</video:title>
+  <video:description>Tempat Tidur</video:description>
+  <video:publication_date>2022-03-31T11:45:30+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/furnitur</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Furnitur Kayu Jati</video:title>
+  <video:description>Furnitur Kayu Jati</video:description>
+  <video:publication_date>2022-03-31T10:33:12+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/pendopo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Pendopo</video:title>
+  <video:description>Pendopo</video:description>
+  <video:publication_date>2022-03-31T09:10:06+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/limasan</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Limasan</video:title>
+  <video:description>Limasan</video:description>
+  <video:publication_date>2022-03-31T08:22:51+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/gazebo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Gazebo</video:title>
+  <video:description>Gazebo</video:description>
+  <video:publication_date>2022-03-31T07:11:33+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://jati.furnitur.co.id/joglo</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Joglo</video:title>
+  <video:description>Joglo</video:description>
+  <video:publication_date>2021-11-02T08:56:58+00:00</video:publication_date>
+ </video:video>
+ </url>
+</urlset>
