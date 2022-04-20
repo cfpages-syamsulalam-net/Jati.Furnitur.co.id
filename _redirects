@@ -3,8 +3,8 @@
 /lemari-*.html /lemari-jati-:splat 301
 /meja-*.html /meja-jati-:splat 301
 /pintu-*.html /pintu-jati-:splat 301
-/ranjang-* /ranjang-jati-:splat 301
-/kursi-* /kursi-jati-:splat 301
-/lemari-* /lemari-jati-:splat 301
-/meja-* /meja-jati-:splat 301
-/pintu-* /pintu-jati-:splat 301
+/ranjang-*/ /ranjang-jati-:splat 301
+/kursi-*/ /kursi-jati-:splat 301
+/lemari-*/ /lemari-jati-:splat 301
+/meja-*/ /meja-jati-:splat 301
+/pintu-*/ /pintu-jati-:splat 301
