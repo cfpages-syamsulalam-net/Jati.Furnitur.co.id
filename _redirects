@@ -1,5 +1,15 @@
+/kursi-jati-* /furnitur/kursi-jati-:splat 301
+/lemari-jati-* /furnitur/lemari-jati-:splat 301
+/meja-jati-* /furnitur/meja-jati-:splat 301
+/pintu-jati-* /furnitur/pintu-jati-:splat 301
+/ranjang-jati-* /furnitur/ranjang-jati-:splat 301
 /kursi-* /furnitur/kursi-jati-:splat 301
 /lemari-* /furnitur/lemari-jati-:splat 301
 /meja-* /furnitur/meja-jati-:splat 301
 /pintu-* /furnitur/pintu-jati-:splat 301
 /ranjang-* /furnitur/ranjang-jati-:splat 301
+/kursi /furnitur/kursi 301
+/lemari /furnitur/lemari 301
+/meja /furnitur/meja 301
+/pintu /furnitur/pintu 301
+/ranjang /furnitur/ranjang 301
