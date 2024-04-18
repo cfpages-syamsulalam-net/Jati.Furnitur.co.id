@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://oxygen-qpqq97b3lt77.oxygen-demo.qsandbox.me/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap1.xml</loc>
+		<loc>https://jati.furnitur.co.id/post-sitemap1.xml</loc>
 		<lastmod>2022-04-07T22:36:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap2.xml</loc>
+		<loc>https://jati.furnitur.co.id/post-sitemap2.xml</loc>
 		<lastmod>2022-04-07T18:49:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap3.xml</loc>
+		<loc>https://jati.furnitur.co.id/post-sitemap3.xml</loc>
 		<lastmod>2022-04-07T18:06:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://jati.furnitur.co.id/page-sitemap.xml</loc>
 		<lastmod>2022-04-11T09:42:50+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
